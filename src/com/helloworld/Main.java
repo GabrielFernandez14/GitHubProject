@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("Hello From GitHub!");
         var person = new Person();
+        System.out.println(person);
     }
 }
